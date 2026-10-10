@@ -1,16 +1,20 @@
-## Hi there 👋
+# 你好，我是金华 👋
 
-<!--
-**qdwesa5313/qdwesa5313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 研发主管 @ 中化石化销售有限公司 ｜ 聚烯烃新材料研发 × 技术营销 × 战略管理
+🎓 上海交通大学 高分子化学博士
 
-Here are some ideas to get you started:
+## 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 6 年+ 聚烯烃新产品研发经验：微发泡母粒、成核剂、亲水剂、抗静电剂等核心技术与关键助剂
+- 技术营销：为华南 10 余家关键客户提供发泡轻量化一体化解决方案
+- 发表 SCI 论文多篇（含 Biomaterials、JCR 一区），申请发明专利 27 件
+- 获中化能源集团科技创新二等奖、“研产销”一体化创新团队奖
+
+## 代表性成果
+
+- 微发泡母粒 3 个牌号：成本较国外同类降低 60%，推广客户 40 余家，达成吨级销售
+- 高效成核剂 4 个牌号：成本降低 50%，某炼厂百吨级生产试用
+
+## 联系我
+
+- 📫 邮箱：qdwesa5313@163.com
